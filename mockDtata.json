@@ -1,0 +1,58 @@
+{
+  "response": [
+    {
+      "fixture": {
+        "date": "2026-02-10T18:00:00Z"
+      },
+      "teams": {
+        "home": { "name": "Arsenal" },
+        "away": { "name": "Chelsea" }
+      },
+      "goals": {
+        "home": 2,
+        "away": 1
+      },
+      "statistics": [
+        {
+          "team": { "name": "Arsenal" },
+          "statistics": [
+            { "type": "Corner Kicks", "value": 6 }
+          ]
+        },
+        {
+          "team": { "name": "Chelsea" },
+          "statistics": [
+            { "type": "Corner Kicks", "value": 4 }
+          ]
+        }
+      ]
+    },
+    {
+      "fixture": {
+        "date": "2026-02-05T18:00:00Z"
+      },
+      "teams": {
+        "home": { "name": "Arsenal" },
+        "away": { "name": "Liverpool" }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "statistics": [
+        {
+          "team": { "name": "Arsenal" },
+          "statistics": [
+            { "type": "Corner Kicks", "value": 5 }
+          ]
+        },
+        {
+          "team": { "name": "Liverpool" },
+          "statistics": [
+            { "type": "Corner Kicks", "value": 7 }
+          ]
+        }
+      ]
+    }
+  ]
+}
